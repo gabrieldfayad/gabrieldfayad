@@ -1,6 +1,6 @@
 # Gabriel Fayad
 
-> Sou Gabriel Fayad, estudante de Engenharia da Computação na PUC-Rio, atualmente no sétimo período. Tenho me dedicado à utilização de **dados**, **programação** e **automações** para gerar valor real em setores estratégicos como consultoria e mercado financeiro. Tenho experiência em liderar projetos e coordenar áreas técnicas, conectando a excelência da engenharia aos desafios do mundo corporativo. Hoje, meus interesses estão na interseção entre tecnologia aplicada e inteligência de negócios — com foco em otimizar processos, extrair insights estratégicos e explorar como a análise de dados pode se traduzir em impacto prático e vantagem competitiva.
+> Estudante do quarto ano de Engenharia de Computação na PUC-Rio, previsão de formatura em dezembro de 2027, com competências em Análise de Dados, Metodologias Ágeis e linguagens como Python e C, voltadas para as mais diversas aplicações, notadamente aquelas que demandam capacidade analítica e resolução de problemas complexos.
 
 ### Sobre mim
 - 🎓 7º período de Engenharia de Computação na PUC-Rio.
