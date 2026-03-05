@@ -3,9 +3,9 @@
 > Estudante do quarto ano de Engenharia de Computação na PUC-Rio, previsão de formatura em dezembro de 2027, com competências em Análise de Dados, Metodologias Ágeis e linguagens como Python e C, voltadas para as mais diversas aplicações, notadamente aquelas que demandam capacidade analítica e resolução de problemas complexos.
 
 ### Sobre mim
-- 🎓 7º período de Engenharia de Computação na PUC-Rio.
-- 📊 Foco em **Ciência de Dados**, **Análise de Dados** e **Automações**.
-- 🛠️ Desenvolvendo soluções com Python, SQL, Java e C.
+- 7º período de Engenharia de Computação na PUC-Rio.
+- **Ciência de Dados**, **Análise de Dados**, **Software** e **Automações**.
+- Desenvolvendo soluções com Python, SQL, Java e C.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
