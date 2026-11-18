@@ -1,6 +1,6 @@
 # Gabriel Fayad
 
-> Estudante do quarto ano de Engenharia de Computação na PUC-Rio, previsão de formatura em dezembro de 2027, com competências em Análise de Dados, Metodologias Ágeis e linguagens como Python e C, voltadas para as mais diversas aplicações, notadamente aquelas que demandam capacidade analítica e resolução de problemas complexos.
+> Estudante do quarto ano de Engenharia de Computação na PUC-Rio, previsão de formatura em dezembro de 2027, com competências em Análise de Dados, Metodologias Ágeis e linguagens como Python e C, voltadas para as mais diversas aplicações.
 
 ### Sobre mim
 - 7º período de Engenharia de Computação na PUC-Rio.
